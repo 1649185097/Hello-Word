@@ -1,2 +1,1 @@
-# Hello-Word
-first-py
+第一次创建版本管理
